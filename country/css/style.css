@@ -1,5 +1,5 @@
 body{  
-    background:#E8E9EB ;
+    background:#333333 ;
 	margin: 0px; /* Often browsers have a 5px margin by deafult*/
 	font-family: 'Nunito', sans-serif;
 
@@ -71,7 +71,7 @@ section{
     position: fixed;
     max-width: 40%;
     float: left;
-    background:#171D40 ;
+    background:#333333 ;
     margin-top: 52px;
 }
 
